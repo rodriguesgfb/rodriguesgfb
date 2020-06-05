@@ -1,0 +1,20 @@
+---
+title: "Posts"
+output:
+  html_document:
+    #toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+# Posts Recentes 
+
+2020| 6 | 07 Ultima atualização: `r Sys.Date()`
+
+[Medindo a diversidade Funcional](docs/Posts/FD/FD1.html)

@@ -1,11 +1,21 @@
-name: "MyLabJournal"
+name: "Gabriel Rodrigues"
+output_dir: "."
 navbar:
-  title: "MyLabJournal"
+  title: "Gabriel Rodrigues"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
-output_dir: "docs"
+    - text: "Posts"
+      href: Posts.html
+    - text: "Publicações"
+      href: Publication.html
+  right:
+    - icon: ion-social-twitter
+      href: https://twitter.com/rodriguesgfb
+    - icon: ion-social-github 
+      href: https://github.com/rodriguesgfb
+
+output:
+  html_document:
+    theme: cosmo
+

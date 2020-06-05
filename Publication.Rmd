@@ -1,0 +1,19 @@
+---
+title: "Publicações"
+output: html_document
+---
+
+
+
+1. [The hermit crab–shell relationship through the lens of interaction networks: The use of network metrics and species role across communities](https://onlinelibrary.wiley.com/doi/abs/10.1111/aec.12903) 
+Alexandre R. da Silva;  **Gabriel F.B. Rodrigues**;  Daniel Lima;  Valter J. Cobo;  Rogério C. da Costa;  Antonio L. Castilho (2020) 
+
+2. [Structural patterns of a coastal hermit crab-gastropod shell interaction network: new insights from a unique relationship](https://www.int-res.com/abstracts/meps/v640/p117-126/) 
+**Gabriel F.B. Rodrigues**; Caio S. Ballarin; Adilson Fransozo; Felipe W. Amorim (2020) 
+
+3. [The different depths gradients may affect the reproductive dynamics of Hepatus pudibundus (Herbst, 1785) (Decapoda: Aethridae) in the southeastern region of Brazil](https://link.springer.com/article/10.2478/s11756-019-00230-1) Veronica P. Bernardes; Francislene K. Martins; **Gabriel F. B. Rodrigues**; Camila H. Bernardo; Aline N. de Sousa; Giovana Bertini; Adilson Fransozo (2019) 
+
+4. [Environmental factors modulating the bathymetric distribution of the demographic groups of Achelous spinimanus (Crustacea)](http://revistas.unisinos.br/index.php/neotropical/article/view/16466) *Neotropical Biology and Conservation* Camila H. Bernardo; Veronica P. Bernardes; Aline N. de Sousa; **Gabriel F.B. Rodrigues**; Thiago E. da Silva; Adilson Fransozo
+
+5. [Decapod crustaceans captured along with the sea-bob shrimp fisheries on non-consolidated sublitoral from northern coast of São Paulo, Brazil](https://www.pesca.sp.gov.br/boletim/index.php/bip/article/view/1142) Adilson Fransozo; Aline N. de Sousa; **Gabriel F.B. Rodrigues**; Jeniffer N. Teles; Vívian Fransozo; Maria L. Negreiros-Fransozo
+

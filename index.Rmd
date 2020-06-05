@@ -1,7 +1,8 @@
 ---
-title: "MyLabJournal"
+title: "Gabriel Rodrigues"
 output: html_document
 ---
+<img src= "images/me3.jpg" style="width:25%; margin-right: 20px" align="right-center">
 
 <style type="text/css">
 .title {
@@ -17,27 +18,19 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Biografia**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Doutorando e mestre em Zoologia pela Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP). 
 
-## How to use
+##Formação
+ `r icon::fa("graduation-cap")` Doutorando em Zoologia (2019-2023)
+ 
+ `r icon::fa("graduation-cap")` Mestre em Zoologia (2017-2019)
+ 
+ `r icon::fa("graduation-cap")` Bacharel/Licenciado em Ciências Biológicas (2013-2016)
+ 
+[ `r icon::ai("lattes", size =2)` Lattes](http://lattes.cnpq.br/9221036469099563)
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
 
 
-</div>
-<div class="col-sm-6">
-
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
+ 
