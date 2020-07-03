@@ -20,7 +20,7 @@ output: html_document
 
 # **Biografia**
 
-Doutorando e mestre em Zoologia pela Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP). 
+Doutorando e mestre em Zoologia pela Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP). Possui interesse na linguagem `R`  com foco em ciência de dados e na pesquisa sobre questões ecológicas. 
 
 ##Formação
  `r icon::fa("graduation-cap")` Doutorando em Zoologia (2019-2023)
