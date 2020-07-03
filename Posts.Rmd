@@ -17,8 +17,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 2020| 6 | 07 Ultima atualização: `r Sys.Date()`
 
-[Medindo a diversidade Funcional](Posts/FD/FD1.html)
+[Medindo a diversidade Funcional](docs/Posts/FD/FD1.html)
 
 2020| 7 | 03 Ultima atualização: `r Sys.Date()`
 
-[Particionando a diversidade beta](Posts/Betapart/beta.html)
+[Particionando a diversidade beta](docs/Posts/Betapart/beta.html)
