@@ -26,7 +26,7 @@ Potencialmente dois processos distintos e complementares podem resultar na difer
   
   2. **Perda (ou ganho) de espécies**: Consiste no desaparecimento (ou aparecimento) de uma espécie em um único local, tornando assim a comunidade de menor número de espécies (menor riqueza) um subconjunto da comunidade com maior número de espécies. Esse padrão pode ser chamado de aninhamento **(nestedness)**.  
 
-###Funções do pacote betapart () [@baselga2012betapart]
+###Funções do pacote `betapart()` [@baselga2012betapart]
 A função desse pacote é disponibilizar um conjunto de ferramentas para calcular e particionar a diversidade beta em seus dois componentes descritos **(turnover e nestedness)**
 
 ##Calculando os componentes e database utilizado.
